@@ -1,3 +1,4 @@
+---
 # php-mysql-project
 PHP project with MySQL database integration
 
@@ -20,3 +21,4 @@ This project is a simple PHP web application that connects to a MySQL database. 
 First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/Navaj66/php-mysql-project.git
+
